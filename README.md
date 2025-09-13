@@ -148,10 +148,11 @@ Se você encontrar erros de compilação (`Microsoft Visual C++ 14.0 or greater 
 - Instale as [Build Tools for Visual Studio](https://visualstudio.microsoft.com/visual-cpp-build-tools/) e selecione "Desenvolvimento para desktop com C++".
 - **Recomendado:** Use uma versão do Python como 3.10, 3.11 ou 3.12, pois o `psycopg2-binary` tem binários pré-compilados mais estáveis para essas versões no Windows.
 
-##  imagens 
+##  Imagens 
 
-<img width="1887" height="874" alt="Captura de tela 2025-09-13 015002" src="https://github.com/user-attachments/assets/fa7a6234-b63e-46e9-b281-f296f4c748b9" />
+
 <img width="1861" height="875" alt="Captura de tela 2025-09-13 015118" src="https://github.com/user-attachments/assets/873bf179-d31e-43fe-949e-f551ec915a3d" />
+<img width="1887" height="874" alt="Captura de tela 2025-09-13 015002" src="https://github.com/user-attachments/assets/fa7a6234-b63e-46e9-b281-f296f4c748b9" />
 
 ## Video 
 
